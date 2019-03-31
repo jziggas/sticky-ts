@@ -1,8 +1,9 @@
 {
-  "name": "sticky.ts",
+  "name": "sticky-ts",
   "version": "0.1.0",
   "description": "A library for sticky elements written in TypeScript and compiled to vanilla JavaScript.",
-  "main": "sticky-ts",
+  "main": "dist/sticky.js",
+  "types": "dist/sticky.d.ts",
   "scripts": {},
   "repository": {
     "type": "git",
