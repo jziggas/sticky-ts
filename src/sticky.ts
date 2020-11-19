@@ -422,7 +422,6 @@ export class Sticky {
       this.elements.forEach((element: IStickyElement) => {
         this.destroyResizeEvents(element)
         this.destroyScrollEvents(element)
-        delete element.sticky
       })
      }
   
